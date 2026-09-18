@@ -1,12 +1,16 @@
 
 
-Hi 👋 My name is Daniel Lezeau
+About Me
 ==============================
 
 Student at Monmouth University
 ------------------------------
 
-I'm currently a Junior at Monmouth University studying Computer Science and Cybersecurity, and an active member of MU IEEE. Open to any opportunities where I can apply my classroom knowledge to real-world challenges and contribute to a team's success.
+I'm currently a Junior at Monmouth University 
+
+Studying Computer Science and Cybersecurity active member of MU IEEE. 
+
+Open to any opportunities where I can apply my classroom knowledge to real-world challenges and contribute to a team's success.
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a>
