@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Education:
+Currently attending Monmouth University in West Long Branch, NJ (Junior)
+B.S. in Computer Science in 2028
+Minor in Cybersecurity
+
 <!--
 **dan-lezeau/dan-lezeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
